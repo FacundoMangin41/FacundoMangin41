@@ -1,3 +1,5 @@
+##Tuve un inconveniente en mi cuenta principal la cual no permite que las demas personas vean mi perfil ni mis repositorios, hace 2 semanas mande un ticket al soporte de github, aun no tengo respuestas.
+
 # Mi Perfil
 
 __Quién soy:__ Me gusta mucho la tecnología, el deporte, el automovilismo y pasar tiempo con mi familia.Disfruto mucho de trabajar en equipo y tener una buena relación con mis compañeros. Poseo completa disponibilidad horaria.
