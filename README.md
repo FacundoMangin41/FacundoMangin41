@@ -1,4 +1,4 @@
-##Tuve un inconveniente en mi cuenta principal la cual no permite que las demas personas vean mi perfil ni mis repositorios, hace 2 semanas mande un ticket al soporte de github, aun no tengo respuestas.
+__Tuve un inconveniente en mi cuenta principal la cual no permite que las demas personas vean mi perfil ni mis repositorios, hace 2 semanas mande un ticket al soporte de github, aun no tengo respuestas.__
 
 # Mi Perfil
 
