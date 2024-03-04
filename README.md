@@ -1,6 +1,7 @@
 __Tuve un inconveniente en mi cuenta principal la cual no permite que las demas personas vean mi perfil ni mis repositorios, hace 2 semanas mande un ticket al soporte de github, aun no tengo respuestas.__
 
-![Commander 3D](banner.jpg)
+![Informacion anterior GitHub año 2023](2023.png)
+![Informacion anterior GitHub año 2024](2024.png)
 
 # Mi Perfil
 
