@@ -1,16 +1,33 @@
-### Hi there 👋
+# Mi Perfil
 
-<!--
-**FacundoMangin41/FacundoMangin41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__Quién soy:__ Me gusta mucho la tecnología, el deporte, el automovilismo y pasar tiempo con mi familia.Disfruto mucho de trabajar en equipo y tener una buena relación con mis compañeros. Poseo completa disponibilidad horaria.
 
-Here are some ideas to get you started:
+__Mis objetivos personales:__ Tengo como principal objetivo poder desarrollarme en una empresa que me permita perfeccionar mis técnicas y conocimientos junto a otros profesionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Formacion
+<em> 2023 - Finalizada </em> | Desarrollador FrontEnd    Inove – Escuela de Código 
+
+<em> 2019 - En Curso </em> | Analista en Informática   Universidad Nacional San Antonio de Areco
+
+# Conocimientos
+HTML  :star: :star: :star: :star: :star:
+
+CSS   :star: :star: :star: :star: :star:
+
+JavaScript   :star: :star: :star: :star:
+
+ReactJS   :star: :star: :star: :star:
+
+Material ui   :star: :star: :star: :star:
+
+Bootstrap   :star: :star: :star: :star: :star:
+
+SASS  :star: :star: :star: :star:
+
+# Pagina Personal
+...
+
+# Contactos:
+:telephone_receiver: +54 3329305304
+
+:envelope: facundo_mangin@hotmail.com
