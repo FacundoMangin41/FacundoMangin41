@@ -3,6 +3,10 @@ __Tuve un inconveniente en mi cuenta principal la cual no permite que las demas 
 ![Informacion anterior GitHub año 2023](2023.png)
 ![Informacion anterior GitHub año 2024](2024.png)
 
+# Pagina Personal
+### [Commander 3D](https://facundomangin41.github.io/Pagina-Personal/)
+### https://munibara.netlify.app/
+
 # Mi Perfil
 
 __Quién soy:__ Me gusta mucho la tecnología, el deporte, el automovilismo y pasar tiempo con mi familia.Disfruto mucho de trabajar en equipo y tener una buena relación con mis compañeros. Poseo completa disponibilidad horaria.
@@ -29,8 +33,6 @@ Bootstrap   :star: :star: :star: :star: :star:
 
 SASS  :star: :star: :star: :star:
 
-# Pagina Personal
-### [Commander 3D](https://facundomangin41.github.io/Pagina-Personal/)
 
 # Contactos:
 :telephone_receiver: +54 3329305304
